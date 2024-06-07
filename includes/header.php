@@ -12,4 +12,4 @@
 <body>
 
 <!-- #add client id here-->
-<script src="https://www.paypal.com/sdk/js?client-id=AZTgoqj0EfGK89tr88fbxjbuxhfbjGNHVF9qD4jwoVeG8tPDEnMEi54rpT3ia_4J5hKiC-rD_pkh716k&components=buttons"></script>
+<script src="https://www.paypal.com/sdk/js?client-id=&components=buttons"></script>
