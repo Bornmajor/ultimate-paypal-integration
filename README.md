@@ -33,4 +33,5 @@ https://github.com/Bornmajor/ultimate-paypal-integration/assets/98744068/fdb16bd
 
 ![Screenshot (363)](https://github.com/Bornmajor/ultimate-paypal-integration/assets/98744068/d4ff0890-c24d-4cae-bb1b-4198b5de53dc)
 ![Screenshot (364)](https://github.com/Bornmajor/ultimate-paypal-integration/assets/98744068/61bf7175-8f0c-40b1-a222-dd1e2a05c615)
+![chrome_K3ddQixGdg-ezgif com-video-to-gif-converter](https://github.com/Bornmajor/ultimate-paypal-integration/assets/98744068/68c8e3a7-8c4b-4983-b686-751688cb1c9f)
 
