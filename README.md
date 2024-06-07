@@ -13,7 +13,8 @@
 ### Prerequisites
 1. Php
 2. Mysql
-3. JavaScript SDK reference (https://developer.paypal.com/sdk/js/reference/).
+3. JavaScript SDK reference -> https://developer.paypal.com/sdk/js/reference/.
+4. Paypal rest api -> https://developer.paypal.com/api/rest/
 
 ## Usage
 ### Making a Donation Payment
