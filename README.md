@@ -30,4 +30,6 @@ Javascript PayPal SDK: For integrating PayPal payment processing.
 
 https://github.com/Bornmajor/ultimate-paypal-integration/assets/98744068/fdb16bd9-d776-4748-9301-678737684190
 
+![Screenshot (363)](https://github.com/Bornmajor/ultimate-paypal-integration/assets/98744068/d4ff0890-c24d-4cae-bb1b-4198b5de53dc)
+![Screenshot (364)](https://github.com/Bornmajor/ultimate-paypal-integration/assets/98744068/61bf7175-8f0c-40b1-a222-dd1e2a05c615)
 
