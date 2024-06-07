@@ -3,8 +3,8 @@ header('Content-Type: application/json');
 include('functions.php');
 
 // Replace these values with your own PayPal credentials
-$clientId = "AZTgoqj0EfGK89tr88fbxjbuxhfbjGNHVF9qD4jwoVeG8tPDEnMEi54rpT3ia_4J5hKiC-rD_pkh716k";
-$clientSecret = "EEw5Rj6eAuvBuJR64DLUe21dplas74NWFTEYECpb4NBP0HFkN_3DoPyZD7tFaXnS8yCy0nMISSuUgkWM";
+$clientId = "";
+$clientSecret = "";
 
 $paypalUrl = "https://api.sandbox.paypal.com"; // Use "https://api.paypal.com" for live
 
