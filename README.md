@@ -15,3 +15,17 @@
 2. Mysql
 3. JavaScript SDK reference (https://developer.paypal.com/sdk/js/reference/).
 
+## Usage
+### Making a Donation Payment
+1. Navigate to the home page.
+2. Complete the payment process using PayPal.
+
+## Technology Used
+JavaScript: For the front-end.
+PHP: For handling database interactions and storing transaction details.
+MySQL: Relational database management system for storing transaction data.
+Javascript PayPal SDK: For integrating PayPal payment processing.
+
+## Screenshots
+
+
