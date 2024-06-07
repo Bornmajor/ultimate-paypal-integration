@@ -16,7 +16,10 @@
 3. JavaScript SDK reference -> https://developer.paypal.com/sdk/js/reference/.
 4. Paypal rest api -> https://developer.paypal.com/api/rest/
 
+
+
 ## Usage
+To implement this project you need to setup paypal developer account https://developer.paypal.com/ and obtain client id and client secret.
 ### Making a Donation Payment
 1. Navigate to the home page.
 2. Complete the payment process using PayPal.
