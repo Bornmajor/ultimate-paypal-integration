@@ -19,7 +19,8 @@
 
 
 ## Usage
-To implement this project you need to setup paypal developer account https://developer.paypal.com/ and obtain client id and client secret.For frontend part you will required Javascript SDK -> https://developer.paypal.com/sdk/js/v1/reference/.
+To implement this project you need to setup paypal developer account https://developer.paypal.com/ create an app ,obtain client id and client secret.For frontend part you will required Javascript SDK -> https://developer.paypal.com/sdk/js/v1/reference/.My frontend app is located in pages/home.php it illustrate how setup embed paypal button.For backend all the processing is done in async/capture_order.php it showcase how generate order_id and verify if payment was completed.
+
 ### Making a Donation Payment
 1. Navigate to the home page.
 2. Complete the payment process using PayPal.
